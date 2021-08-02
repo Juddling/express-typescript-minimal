@@ -1,5 +1,5 @@
-## Minimal Express TypeScript Boilerplate
-This is a boilerplate Express TypeScript repo that is bloat-free.
+## Minimal Express TypeScript Template
+This is a template Express TypeScript repo that is bloat-free.
 
 No ORMs, Dockerfiles, eslint configs, etc.
 
